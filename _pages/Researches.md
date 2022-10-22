@@ -15,20 +15,20 @@ horizontal: false
   <!-- Display categorized Researches. -->
   {%- for category in page.display_categories %}
   <h2 class="category">{{ category }}</h2>
-  {%- assign categorized_projects = site.Researches | where: "category", category -%}
-  {%- assign sorted_projects = categorized_projects | sort: "importance" %}
+  {%- assign categorized_Researches. = site.Researches | where: "category", category -%}
+  {%- assign sorted_Researches. = categorized_Researches. | sort: "importance" %}
   <!-- Generate cards for each project -->
   {% if page.horizontal -%}
   <div class="container">
     <div class="row row-cols-2">
-    {%- for project in sorted_projects -%}
-      {% include projects_horizontal.html %}
+    {%- for project in sorted_Researches. -%}
+      {% include Researches._horizontal.html %}
     {%- endfor %}
     </div>
   </div>
   {%- else -%}
   <div class="grid">
-    {%- for project in sorted_projects -%}
+    {%- for project in sorted_Researches. -%}
       {% include Researches.html %}
     {%- endfor %}
   </div>
@@ -37,19 +37,19 @@ horizontal: false
 
 {%- else -%}
 <!-- Display Researches. without categories -->
-  {%- assign sorted_projects = site.Researches | sort: "importance" -%}
+  {%- assign sorted_Researches. = site.Researches | sort: "importance" -%}
   <!-- Generate cards for each project -->
   {% if page.horizontal -%}
   <div class="container">
     <div class="row row-cols-2">
-    {%- for project in sorted_projects -%}
-      {% include projects_horizontal.html %}
+    {%- for project in sorted_Researches. -%}
+      {% include Researches._horizontal.html %}
     {%- endfor %}
     </div>
   </div>
   {%- else -%}
   <div class="grid">
-    {%- for project in sorted_projects -%}
+    {%- for project in sorted_Researches. -%}
       {% include Researches.html %}
     {%- endfor %}
   </div>
