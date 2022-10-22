@@ -9,7 +9,7 @@ profile:
   image: Future Cmpus.jpeg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Future Cmpus of Soochow University</p>
+    <p>Future Campus of Soochow University</p>
     <p>No. 1 Jiuyong West Road</p>
     <p>Suzhou, Jiangsu, China</p>
 
