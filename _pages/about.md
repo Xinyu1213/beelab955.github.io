@@ -2,7 +2,7 @@
 layout: Home
 title: Home
 permalink: /
-subtitle: <a href = http://future.suda.edu.cn/bkzs/main.htm>College of Future Science and Engineering </a>. I love Cong.
+subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
