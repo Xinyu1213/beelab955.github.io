@@ -11,7 +11,7 @@ profile:
   address: >
     <p>Future Cmpus of Soochow University</p>
     <p>No. 1 Jiuyong West Road</p>
-    <p>Wujiang, Suzhou, Jiangsu, China/p>
+    <p>Suzhou, Jiangsu, China</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -22,3 +22,4 @@ Welcome to BeeLab’s website. The lab is guided by Professor Zhijun Li and Asso
   
 1. Intelligent driving: Mainly for models above l3, the use of the driver's camera in the intelligent cockpit to design and implement visual fatigue detection algorithms to reduce the accidents caused by fatigue driving. 
 2. Smart Cockpit: Based on domestic large computing chips such as Journey 5, this project plans to develop a series of intelligent cockpit and intelligent driving perception reference algorithms for empowering the entire academic and industrial community.
+
