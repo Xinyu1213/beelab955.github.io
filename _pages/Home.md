@@ -1,7 +1,7 @@
 ---
 layout: Home
 title: Home
-permalink: https://xinyu1213.github.io/
+permalink: /
 subtitle: Joint Laboratory of Intelligent Driving. 
 
 profile:
