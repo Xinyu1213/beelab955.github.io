@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<!-- _layouts/cv.html -->
+<!-- _layouts/Team.html -->
         <div class="post">
 
           <header class="post-header">
@@ -10,19 +10,19 @@ layout: default
           </header>
 
           <article>
-            <div class="cv">
-              {% for entry in site.data.cv %}
+            <div class="Team">
+              {% for entry in site.data.Team %}
                 <div class="card mt-3 p-3">
                   <h3 class="card-title font-weight-medium">{{ entry.title }}</h3>
                   <div>
                   {% if entry.type == "list" %}
-                    {% include cv/list.html %}
+                    {% include Team/list.html %}
                   {% elsif entry.type == "map" %}
-                    {% include cv/map.html %}
+                    {% include Team/map.html %}
                   {% elsif entry.type == "nested_list" %}
-                    {% include cv/nested_list.html %}
+                    {% include Team/nested_list.html %}
                   {% elsif entry.type == "time_table" %}
-                   {% include cv/time_table.html %}
+                   {% include Team/time_table.html %}
                   {% else %}
                     {{ entry.contents }}
                   {% endif %}
