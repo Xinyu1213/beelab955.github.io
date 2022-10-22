@@ -20,6 +20,6 @@ social: true  # includes social icons at the bottom of the page
 
 Welcome to BeeLab’s website. The lab is guided by Professor Zhijun Li and Associate Professor Cong Yang and is organized by several students from the [School of Future Science and Technology of Soochow University](http://future.suda.edu.cn/bkzs/main.htm). Our projects focus on smart driving and smart cockpits:
   
-1. Intelligent driving: Mainly for models above l3, the use of the driver's camera in the intelligent cockpit to design and implement visual fatigue detection algorithms to reduce the accidents caused by fatigue driving. 
+1. Intelligent driving: Mainly for models above L3, the use of the driver's camera in the intelligent cockpit to design and implement visual fatigue detection algorithms to reduce the accidents caused by fatigue driving. 
 2. Smart Cockpit: Based on domestic large computing chips such as Journey 5, this project plans to develop a series of intelligent cockpit and intelligent driving perception reference algorithms for empowering the entire academic and industrial community.
 
