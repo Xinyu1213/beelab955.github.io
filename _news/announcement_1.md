@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
-inline: true
+date: 2022-10-10
+inline: true  
 ---
 
-A simple inline announcement.
+Professor Cong Yang led five undergraduates to establish the BeeLab.The five members are: Cong Qian, Xinyu Yang, Ruoxi Sun, Chenyu Zhu, Junqi Xu.
