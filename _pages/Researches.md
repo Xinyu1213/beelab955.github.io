@@ -12,7 +12,7 @@ horizontal: false
 <!-- pages/Researches.md -->
 <div class="Researches">
 {%- if site.enable_project_categories and page.display_categories %}
-  <!-- Display categorized projects -->
+  <!-- Display categorized Researches. -->
   {%- for category in page.display_categories %}
   <h2 class="category">{{ category }}</h2>
   {%- assign categorized_projects = site.Researches | where: "category", category -%}
@@ -36,7 +36,7 @@ horizontal: false
   {% endfor %}
 
 {%- else -%}
-<!-- Display projects without categories -->
+<!-- Display Researches. without categories -->
   {%- assign sorted_projects = site.Researches | sort: "importance" -%}
   <!-- Generate cards for each project -->
   {% if page.horizontal -%}
