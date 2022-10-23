@@ -4,4 +4,4 @@ date: 2022-10-19
 inline: true
 ---
 
-Several new members joined us, they are Zengshaui Yin, Junan Shi, Lingjia Hou.🥳🥳
+Several new members joined us, they are Zengshaui Yin, Jun'an Shi, Lingjia Hou.🥳🥳
