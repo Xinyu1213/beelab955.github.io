@@ -6,7 +6,7 @@ subtitle: Joint Laboratory of Intelligent Driving.
 
 profile:
   align: right
-  image: Future Cmpus.jpeg
+  image: Team.JPG
   image_circular: false # crops the image to make it circular
   address: >
     <p>Future Campus of Soochow University</p>
