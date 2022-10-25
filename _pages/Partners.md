@@ -2,8 +2,9 @@
 layout: page
 title: Partners
 permalink: /Partners/
-description: Materials for courses you taught. Replace this text with your description.
+description: 
 nav: true
 nav_order: 4
 ---
 
+We are sincerely recruiting talents! 
