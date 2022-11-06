@@ -16,7 +16,7 @@ footer_text: >
 keywords: BeeLab, JLID  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: Web logo.png  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: Web logo.png # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://beelab955.github.io/ # the base hostname & protocol for your site
 baseurl: ''
